@@ -1,4 +1,4 @@
 # Template-Engine
 
 ## Project
-Application creates templates for specific employee types and displays on browser.
+Application creates templates for specific employee types and displays on the browser.
